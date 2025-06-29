@@ -1,0 +1,29 @@
+title: "NERD Entity Fishing - A Guide to Identifying Entities in Text"
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - family-names: "Susmita"
+    given-names: "Gangopadhyay"
+    email: "susmita.gangopadhyay@gesis.org"
+abstract: >-
+  NERD-Entity-Fishing is an open-source software designed for Named Entity Recognition (NER) 
+  and Entity Linking (EL) tasks. It facilitates the extraction and disambiguation of entities 
+  from textual data, enabling advanced Natural Language Processing (NLP) applications. 
+  The tool is particularly useful for building Knowledge Graphs, performing Semantic Analysis, 
+  and enhancing Information Retrieval systems.
+
+date-released: "2025-06-29"
+version: "1.0.0"
+license: "MIT"
+
+keywords:
+  - "Named Entity Recognition"
+  - "Entity Linking"
+  - "Natural Language Processing"
+  - "Information Retrieval"
+  - "Open Source"
+  - "Text Mining"
+  - "Knowledge Graphs"
+  - "Semantic Analysis"
+
+repository-code: "https://github.com/BDA-KTS/NERD-Entity-Fishing"
