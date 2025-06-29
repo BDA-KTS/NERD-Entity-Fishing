@@ -1,5 +1,4 @@
-# README (Update). 
-I have provided a basic template on how a README for MethodsHub should look like. Please update it for better user-experience.
+# Named Entity Recognition and Disambiguation (NERD) Fishing  
 
 ## Learning Objectives
 This tutorial aims to provide a comprehensive understanding of Named Entity Recognition (NER) using the Entity-Fishing tool. By the end of this tutorial, you will be able to:
@@ -13,25 +12,24 @@ NER is widely used in social sciences for:
 - Extracting insights from large datasets like news articles or social media posts.
 - Supporting qualitative research by automating entity extraction.
 
-## What Length - Duration
-- Estimated time to complete: **2-3 hours**.
-- Tutorial length: **Step-by-step walkthrough with detailed explanations**.
+## Duration
+2-3 hours
 
-## Who This Tutorial is For (Target Audience)
+## Target Audience
 This tutorial is designed for:
 - Social science researchers interested in text analysis.
 - Data scientists and analysts exploring NER applications.
 - Beginners with basic Python knowledge and familiarity with Jupyter Notebooks.
 
-## Technical Details of the Tutorial
-1. **Prerequisites**: please specify which python version to use and also update the requirements.txt 
+## Setting Up The Computational Environment
+please specify which python version to use and also update the requirements.txt 
     - Python 3.x installed.
     - Jupyter Notebook environment set up.
     - Basic understanding of Python programming.
 
-2. **Technical Details**: Please follow the notebook to understand the technical details of the Tutorial.
+Please follow the notebook to understand the technical details of the Tutorial.
 
-3. **Output**:
+It outputs:
     - A detailed report of extracted entities.
     - Insights and patterns derived from the analysis.
 
@@ -46,7 +44,4 @@ This tutorial is designed for:
 - [Python Pandas Documentation](https://pandas.pydata.org/)
 
 ## Contact Details
-For any questions or feedback, feel free to reach out:
-- **Name**: Shyam
-- **Email**: shyam@example.com
-- **GitHub**: [Shyam's GitHub](https://github.com/shyam)
+For further queries, please contact [Susmita.Gangopadhyay@gesis.org](mailto:For further queries, please contact Susmita.Gangopadhyay@gesis.org)
