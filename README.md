@@ -22,16 +22,16 @@ This tutorial is designed for:
 - Beginners with basic Python knowledge and familiarity with Jupyter Notebooks.
 
 ## Setting Up The Computational Environment
-please specify which python version to use and also update the requirements.txt 
-    - Python 3.x installed.
-    - Jupyter Notebook environment set up.
-    - Basic understanding of Python programming.
+Please specify which Python version to use and also update the `requirements.txt`:
+- Python version >= 3.10 installed.
+- Jupyter Notebook environment set up.
+- Basic understanding of Python programming.
 
-Please follow the notebook to understand the technical details of the Tutorial.
+Please follow the notebook to understand the technical details of the tutorial.
 
 It outputs:
-    - A detailed report of extracted entities.
-    - Insights and patterns derived from the analysis.
+- A detailed report of extracted entities.
+- Insights and patterns derived from the analysis.
 
 ## Takeaways, Conclusion for the Reader to Learn from the Tutorial
 - Learn how to use Entity-Fishing for NER tasks.
@@ -39,7 +39,7 @@ It outputs:
 - Gain hands-on experience with Python and Jupyter Notebook for text analysis.
 
 ## References
-- [Entity-Fishing Documentation](https://github.com/hipster-philology/entity-fishing)
+- [Entity-Fishing Documentation](https://github.com/kermitt2/entity-fishing)
 - [Jupyter Notebook Official Site](https://jupyter.org/)
 - [Python Pandas Documentation](https://pandas.pydata.org/)
 
