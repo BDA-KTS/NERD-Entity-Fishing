@@ -1,3 +1,6 @@
+
+﻿asttokens==3.0.0
+certifi==2025.8.3
 charset-normalizer==3.4.3
 colorama==0.4.6
 colorlog==6.9.0
@@ -8,6 +11,8 @@ entity-fishing-client==0.7.2
 executing==2.2.0
 idna==3.10
 ipykernel==6.30.1
+ipython==9.4.0
+ipython_pygments_lexers==1.1.1
 jedi==0.19.2
 jupyter_client==8.6.3
 jupyter_core==5.8.1
@@ -32,7 +37,3 @@ traitlets==5.14.3
 urllib3==2.5.0
 wcwidth==0.2.13
 zenlog==1.1
-
-
-
-
