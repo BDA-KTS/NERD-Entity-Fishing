@@ -57,7 +57,7 @@
         "sentence": "true",
         "language": {
             "lang": "en",
-            "conf": 0.999995950268219
+            "conf": 0.9999970726275942
         }
     },
     {
@@ -121,7 +121,7 @@
         "sentence": "true",
         "language": {
             "lang": "en",
-            "conf": 0.9999959601896372
+            "conf": 0.9999952209091671
         }
     },
     {
@@ -212,7 +212,7 @@
         "sentence": "true",
         "language": {
             "lang": "en",
-            "conf": 0.999994269599777
+            "conf": 0.9999978722286473
         }
     }
 ]
