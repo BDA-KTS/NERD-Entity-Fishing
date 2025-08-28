@@ -1,5 +1,4 @@
 backports.tarfile
-en-core-web-sm
 entity-fishing-client
 fqdn
 importlib-metadata
