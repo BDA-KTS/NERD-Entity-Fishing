@@ -1,1 +1,6 @@
+venv
 .ipynb_checkpoints
+entity-fishing-output.json
+dbpedia-spotlight-output.json
+NERD-Entity_Fishing.html
+NERD-Entity_Fishing_files/
